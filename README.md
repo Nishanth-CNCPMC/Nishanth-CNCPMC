@@ -21,7 +21,7 @@ If you’re looking to develop a tailored automation solution, I’d be glad to 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://nishanth-rajkumar.github.io/CV">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
   </a>
   <a href="https://precimechco.github.io/PMC/index.html">
     <img src="https://img.shields.io/badge/Machine%20Shop-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Machine Shop">
