@@ -4,7 +4,39 @@
 
 Hi! I'm Nish, an automation intern, a student at Concordia University, and the owner of Precimech Components and Co. I love working on innovative projects in automation, machining, and robotics.
 
-### Connect with Me
+## 🛠️ Skills
+
+### Software
+<p align="left">
+  <img src="https://img.shields.io/badge/CATIA-00205B?style=for-the-badge&logo=dassault-systèmes&logoColor=white" alt="CATIA">
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks">
+  <img src="https://img.shields.io/badge/Adams-0085CA?style=for-the-badge&logo=msc-software&logoColor=white" alt="Adams">
+  <img src="https://img.shields.io/badge/Fusion%20360-FF9E0F?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360">
+  <img src="https://img.shields.io/badge/HyperMesh-0E4E8C?style=for-the-badge&logo=altair&logoColor=white" alt="HyperMesh">
+  <img src="https://img.shields.io/badge/Ansys-FF7300?style=for-the-badge&logo=ansys&logoColor=white" alt="Ansys">
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab">
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white" alt="Simulink">
+</p>
+
+### Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+
+### Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/CNC-FF9E0F?style=for-the-badge&logo=cnc&logoColor=white" alt="CNC">
+  <img src="https://img.shields.io/badge/PLC-007ACC?style=for-the-badge&logo=plc&logoColor=white" alt="PLC">
+  <img src="https://img.shields.io/badge/3D%20Printer-FFB61E?style=for-the-badge&logo=3d-printing&logoColor=white" alt="3D Printer">
+</p>
+
+### Connect with Me and get a reply within an hour!
 
 <p align="center">
   <a href="https://github.com/Nishanth-CNCPMC">
