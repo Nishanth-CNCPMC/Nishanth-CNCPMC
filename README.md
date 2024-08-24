@@ -1,4 +1,4 @@
-![Cover Image](https://link-to-your-cover-image.com)
+![Cover Image](assets/Machining)
 
 # Welcome to My GitHub! 👋
 
