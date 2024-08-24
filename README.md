@@ -1,4 +1,4 @@
-![Cover Image](assets/Machining)
+![Cover Image](assets/Cover.jpeg)
 
 # Welcome to My GitHub! 👋
 
