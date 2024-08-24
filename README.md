@@ -8,7 +8,6 @@ Hi! I'm Nish, an automation intern, a student at Concordia University, and the o
 
 ### Software
 <p align="left">
-  <img src="https://img.shields.io/badge/CATIA-00205B?style=for-the-badge&logo=dassault-systèmes&logoColor=white" alt="CATIA">
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks">
   <img src="https://img.shields.io/badge/Adams-0085CA?style=for-the-badge&logo=msc-software&logoColor=white" alt="Adams">
   <img src="https://img.shields.io/badge/Fusion%20360-FF9E0F?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360">
